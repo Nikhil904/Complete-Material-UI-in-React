@@ -1,8 +1,11 @@
 import React from "react";
+import SideMenu from "../Component/SideMenu";
 
 function App() {
   return (
-    <h1>Hello Nikhil</h1>
+    <>
+      <SideMenu />
+    </>
   );
 }
 
